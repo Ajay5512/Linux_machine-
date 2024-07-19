@@ -1,0 +1,4 @@
+pandas
+pyspark
+numpy
+apache-airflow-providers-apache-spark
